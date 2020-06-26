@@ -1,0 +1,102 @@
+.main{
+    margin-top: 3.5%;
+    width:auto;
+    background-color: #13c7b5;
+    height: 100%;
+    border: 3px solid rgb(201, 208, 212) ;
+    padding: 20px 0;
+    transition: 0.7s;
+}
+.main:hover{
+    box-shadow: 0 0 20px 0 rgb(128, 133, 132);
+}
+#inp{
+    border-radius: 10px;
+    width: 100%;
+    font-size: 40px;
+    background-color: white;
+    font-weight: bold;
+    transition: 0.7s;
+   
+
+}
+.btn{
+    transition: 0.7s;
+    border-radius: 10px;
+    width: 22%;
+    margin-left: 2%;
+    color: black;
+    background-color: white;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    margin-top: 2%;
+    font-size: 18px;
+    font-weight: bold;
+    
+}
+.btn1{
+    border-radius: 10px;
+    width: 30%;
+    margin-left: 2%;
+    color: black;
+    transition: 0.7s;
+    background-color: white;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    margin-top: 2%;
+    font-size: 18px;
+    font-weight: bold;
+}
+.btn2{
+    border-radius: 10px;
+    width: 30%;
+    transition: 0.7s;
+    margin-left: 2%;
+    color: black;
+    background-color: white;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    margin-top: 2%;
+    font-size: 18px;
+    font-weight: bold;
+}
+.btn3{
+    transition: 0.7s;
+    border-radius: 10px;
+    width: 30%;
+    margin-left: 2%;
+    color: black;
+    background-color: white;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    margin-top: 2%;
+    font-size: 18px;
+    font-weight: bold;
+}
+.btn:hover{
+    background-color: #9fa0a1;
+}
+.btn1:hover{
+    background-color: #9fa0a1;
+}
+.btn2:hover{
+    background-color: #9fa0a1;
+}
+.btn3:hover{
+    background-color: #9fa0a1;
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+    color: whitesmoke;
+    font-size: 55px;
+    
+}
+h2{
+    
+    font-weight: bold;
+    color: whitesmoke;
+    text-align: right;
+    font-size: 25px;
+    padding: 5px 0;
+}
